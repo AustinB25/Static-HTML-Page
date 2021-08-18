@@ -4,13 +4,15 @@ body {
 }
 
 .sign-up{
+    border-width: 2px;
+    border-style: outset;
+    border-color:  white;
     text-align: center;
-}
-
-.sign-up form{
-    border-style:  solid; 
-    border-color: blue;
-    border-width: 3px;
+    height: 500px;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
 }
 
 button{
@@ -21,13 +23,17 @@ button{
 }
 
 input{
-    margin: 5px;
+    margin: 15px;
+    height: 30px;
+    width: 200px;
+    border-style: inset;
 }
 
 .top{
-   
    background-color: white;
-   padding: 25px;
+   height: 35px;
+   padding: 10px;
+   margin: 20px;
 }
 
 .top nav{
