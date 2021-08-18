@@ -1,0 +1,42 @@
+body {
+    background-color: skyblue;
+
+}
+
+.sign-up{
+    text-align: center;
+}
+
+.sign-up form{
+    border-style:  solid; 
+    border-color: blue;
+    border-width: 3px;
+}
+
+button{
+    color: black;
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 35px;
+}
+
+input{
+    margin: 5px;
+}
+
+.top{
+   
+   background-color: white;
+   padding: 25px;
+}
+
+.top nav{
+    float: right;
+}
+
+img{
+    border-radius: 65%;
+    height: 30px;
+    width: 30px;
+}
+
